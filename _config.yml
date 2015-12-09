@@ -18,3 +18,5 @@ github_username:  basking2
 
 # Build settings
 markdown: kramdown
+limit_posts: 3
+
