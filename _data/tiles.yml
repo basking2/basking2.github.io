@@ -1,0 +1,7 @@
+- name: Posts
+  link: /posts/
+  description: News, articles, etc.
+
+- name: SDSAI
+  link: http://basking2.github.io/sdsai
+  description: A collection of algorithms and datastructures.
