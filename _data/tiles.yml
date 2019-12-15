@@ -5,3 +5,7 @@
 - name: SDSAI
   link: http://basking2.github.io/sdsai
   description: A collection of algorithms and datastructures.
+
+- name: SDSAI DSDS
+  link: http://basking2.github.io/sdsai-dsds
+  description: A collection of data structures for use in document stores.
