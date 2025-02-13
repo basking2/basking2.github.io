@@ -9,3 +9,7 @@
 - name: SDSAI DSDS
   link: http://basking2.github.io/sdsai-dsds
   description: A collection of data structures for use in document stores.
+
+- name: SubOptParse
+  link: http://basking2.github.io/suboptparse
+  description: Sub-command CLI parsing library built on top of Ruby's OptionParser.
